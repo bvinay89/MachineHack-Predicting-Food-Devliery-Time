@@ -1,3 +1,5 @@
+![title](courier-delivery-service-illustration-3-02.jpg)
+
 # MachineHack-Predicting-Food-Delivery-Time
 Predicting Food Delivery Time - Hackathon by IMS Proschool
 
