@@ -15,15 +15,15 @@ Size of test set: 2,774 records
 
 FEATURES:
 
-*Restaurant: A unique ID that represents a restaurant.
-*Location: The location of the restaurant.
-*Cuisines: The cuisines offered by the restaurant.
-*Average_Cost: The average cost for one person/order.
-*Minimum_Order: The minimum order amount.
-*Rating: Customer rating for the restaurant.
-*Votes: The total number of customer votes for the restaurant.
-*Reviews: The number of customer reviews for the restaurant.
-*Delivery_Time: The order delivery time of the restaurant. (Target Classes) 
+* Restaurant: A unique ID that represents a restaurant.
+* Location: The location of the restaurant.
+* Cuisines: The cuisines offered by the restaurant.
+* Average_Cost: The average cost for one person/order.
+* Minimum_Order: The minimum order amount.
+* Rating: Customer rating for the restaurant.
+* Votes: The total number of customer votes for the restaurant.
+* Reviews: The number of customer reviews for the restaurant.
+* Delivery_Time: The order delivery time of the restaurant. (Target Classes) 
 
 ### Evaluation Metric
 The final score will be calculated based on accuracy or the number of true predictions using the confusion matrix.
