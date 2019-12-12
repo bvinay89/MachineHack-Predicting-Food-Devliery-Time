@@ -25,7 +25,11 @@ Votes: The total number of customer votes for the restaurant.
 Reviews: The number of customer reviews for the restaurant.
 Delivery_Time: The order delivery time of the restaurant. (Target Classes) 
 
-## Evaluation Metric: The final score will be calculated based on accuracy or the number of true predictions using the confusion matrix.
-## Rank: 51 
-## Best Score: 0.8215573
-## Score of Rank 1 holder: 0.8493151
+### Evaluation Metric
+The final score will be calculated based on accuracy or the number of true predictions using the confusion matrix.
+
+### Leaderboard
+
+* **[Rank](https://www.machinehack.com/course/predicting-food-delivery-time-hackathon-by-ims-proschool/leaderboard)** : **51st/317 Rank**
+
+(1453 participants)
