@@ -28,6 +28,12 @@ Delivery_Time: The order delivery time of the restaurant. (Target Classes)
 ### Evaluation Metric
 The final score will be calculated based on accuracy or the number of true predictions using the confusion matrix.
 
+## Note
+
+* **overall2_submission_lgbmpred_20191128013448.csv** Score of 0.8215573 (Submitted)
+* LGBM using 10 folds for cross validation
+
+
 ### Leaderboard
 
 * **[Rank](https://www.machinehack.com/course/predicting-food-delivery-time-hackathon-by-ims-proschool/leaderboard)** : **51st/317 Rank**
